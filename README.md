@@ -34,14 +34,14 @@ ______________________________________
 📂 Project Structure
 
 |-- index.html
-
+       
+       |-- images
+       
 |-- style.css
 
-|-- images
 
-|-- scripts
+    
 
-    |-- aos.js
 
 ____________________________________________
 
